@@ -1,0 +1,17 @@
+State,District,City,Village,BHK,SqFt,Bathrooms,Status,Price_Lakhs
+Karnataka,Bangalore Urban,Bangalore City,Indiranagar,3,1800,3,Ready to Move,210.00
+Karnataka,Bangalore Urban,Bangalore City,Koramangala,4,2500,4,Ready to Move,340.00
+Karnataka,Bangalore Urban,Bangalore City,Whitefield,2,1200,2,Under Construction,95.00
+Karnataka,Bangalore Urban,Yelahanka,Allalasandra,2,1100,2,Ready to Move,80.00
+Karnataka,Bangalore Rural,Devanahalli,Vijayapura,2,1050,2,Under Construction,55.00
+Karnataka,Bangalore Rural,Devanahalli,Budigere,3,1450,3,Ready to Move,85.00
+Karnataka,Bangalore Rural,Nelamangala,Sondekoppa,1,600,1,Ready to Move,32.00
+Karnataka,Bangalore Rural,Nelamangala,Tyamagondlu,2,950,2,Under Construction,45.00
+Maharashtra,Pune,Haveli,Hinjawadi,2,1020,2,Under Construction,78.00
+Maharashtra,Pune,Haveli,Wagholi,2,980,2,Ready to Move,62.00
+Maharashtra,Pune,Pune City,Kothrud,3,1600,3,Ready to Move,165.00
+Maharashtra,Pune,Maval,Lonavala,4,3000,4,Ready to Move,280.00
+Maharashtra,Mumbai Suburban,Andheri,Lokhandwala,2,900,2,Ready to Move,240.00
+Maharashtra,Mumbai Suburban,Andheri,Versova,3,1400,3,Ready to Move,410.00
+Maharashtra,Mumbai Suburban,Borivali,Gorai,1,550,1,Under Construction,85.00
+Maharashtra,Mumbai Suburban,Kurla,Chembur,2,850,2,Ready to Move,150.00
